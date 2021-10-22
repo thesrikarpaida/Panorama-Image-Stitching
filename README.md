@@ -2,6 +2,6 @@
 
 This is a simple panorama application for stitching together 2 images.
 
-We detect the keypoints and extract local invariant descriptors in the images using SIFT (Scale Invariant Feature Transform).
+Detection of keypoints and extraction of local invariant descriptors in the images is done using SIFT (Scale Invariant Feature Transform).
 
-We also run RANSAC to estimate affine transformation and homography matrix.
+The jupyter notebook also shows the code running RANSAC to estimate affine transformation and homography matrix.
